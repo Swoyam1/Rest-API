@@ -39,7 +39,7 @@ npm run dev
 ```
 After running the development server the server should be running on port 3000
 
-#### Step-4: Use Postman as Client for testing API
+#### Step-4: Use Postman as Client for testing the REST-API
 
 <br />
 <p align="center">
